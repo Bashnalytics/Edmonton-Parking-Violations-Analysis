@@ -47,3 +47,13 @@ SQL (PostgreSQL)
 5. Financial Insights
 - Total fines collected per year are substantial, with top neighborhoods contributing the largest portion of revenue.
 - Average fine per ticket shows consistency across neighborhoods but spikes in high-density areas.
+
+**SQL Analysis**
+SQL queries for this project are available in the [sql_queries.sql](./sql_queries.sql) file.  
+
+Examples of queries include:
+- Count violations per neighborhood
+- Top 5 violation types
+- Total fines per neighborhood
+- Temporal trends by month and year
+- Officer activity metrics
