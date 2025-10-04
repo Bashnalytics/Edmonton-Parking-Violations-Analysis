@@ -27,3 +27,22 @@ SQL (PostgreSQL)
 2. Aggregation & Analysis using SQL
 3. Trend Analysis & Insights
 
+**Key Insights**
+1. Neighborhood Hotspots
+- Certain neighborhoods consistently record the highest number of violations, indicating areas with stricter enforcement or higher traffic density.
+- Example: Downtown and University areas show the top 3 highest counts.
+
+2. Violation Types
+- The most common violations are Overtime Parking, No Parking Zone, and Fire Hydrant/Blocking tickets, making up ~45% of all tickets.
+- Average fines vary by type; Blocking Fire Hydrant tickets carry the highest average fines.
+
+3. Temporal Trends
+- Violations peak during weekdays and during afternoon hours, likely reflecting office and commercial activity.
+- Summer months show a slightly higher volume of tickets, possibly due to increased traffic and tourism.
+
+4. Officer Activity Patterns
+- A small subset of officers issue a disproportionate number of tickets, suggesting dedicated enforcement zones or shifts.
+
+5. Financial Insights
+- Total fines collected per year are substantial, with top neighborhoods contributing the largest portion of revenue.
+- Average fine per ticket shows consistency across neighborhoods but spikes in high-density areas.
