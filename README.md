@@ -2,7 +2,8 @@
 This project analyzes parking ticket data from the City of Edmonton to identify trends, hotspots, and patterns in parking violations.  
 The goal is to use SQL to extract meaningful insights and present data-driven recommendations for city operations and traffic management.
 
-**Data Source**: City of Edmonton Open Data (https://data.edmonton.ca/Transportation/Edmonton-Parking-Tickets)
+**Data Source**: City of Edmonton Open Data
+
 Columns include:
   - ticket_id: Unique ticket number
   - issue_date: Date ticket was issued
