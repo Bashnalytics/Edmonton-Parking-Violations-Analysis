@@ -63,6 +63,13 @@ FROM parking_tickets
 GROUP BY neighborhood, month
 ORDER BY neighborhood, month;
 
+| neighborhood | month | total_violations |
+| ------------ | ----- | ---------------- |
+| Downtown     | 1     | 1,050            |
+| Downtown     | 2     | 1,020            |
+| University   | 1     | 850              |
+| University   | 2     | 800              |
+
 -- 11. Violation hotspots using latitude/longitude
 SELECT neighborhood, latitude, longitude, COUNT(*) AS violation_count
 FROM parking_tickets
