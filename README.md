@@ -21,7 +21,7 @@ Columns include:
 - Provide actionable insights to city operations
 
 **Tools & Technologies**
-SQL (PostgreSQL)
+SQL (PostgreSQL) for quering data and PowerBI for data visualization
 
 **Project Workflow**
 1. Data Cleaning (handle missing/duplicate values, standardize date formats)
