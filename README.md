@@ -21,6 +21,7 @@ Columns include:
 - Provide actionable insights to city operations
 
 **Tools & Technologies**
+
 SQL (PostgreSQL) for quering data and PowerBI for data visualization
 
 **Project Workflow**
